@@ -32,6 +32,7 @@ boxCkeck.addEventListener("click", () => {
 
 
 
+
 // const label = document.createElement('label');
 // label.innerText = 'Mouse play'
 // const div = document.createElement('input');
