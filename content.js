@@ -17,6 +17,10 @@ const boxCircle = document.createElement('div');
 boxCircle.classList.add('box-circle');
 
 // checkboxContainer.insertAdjacentElement('afterbegin',pic);
+const mouseIcon = document.createElement('div');
+mouseIcon.classList.add('mouse-icon');
+
+boxCircle.insertAdjacentElement('afterbegin',mouseIcon);
 
 boxCkeck.insertAdjacentElement('afterbegin',boxCircle);
 checkboxContainer.insertAdjacentElement('afterbegin',boxCkeck);
