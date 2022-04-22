@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "youtube pause by mouse",
-  "description": "pause youtube video when mouse out of screen, i made this extension to study on youtube using two monitors. When i move mouse to monitor whith vscode youtube video switch to pause",
+  "description": "I made this extension to study on youtube using two monitors. When i move mouse to monitor with vscode youtube video switch to pause",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "action": {
