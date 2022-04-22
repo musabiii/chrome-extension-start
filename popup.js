@@ -18,4 +18,3 @@ checkbox.addEventListener("click", (e) => {
   console.log(checkbox.checked);
 });
 
-console.log("open");
